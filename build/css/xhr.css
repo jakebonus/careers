@@ -1,0 +1,34 @@
+.p404  {
+  background: #ECE9E6;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+  height: 100vh;
+}
+
+.col-middle {
+  margin-top: 100px;
+}
+.p404 .left-bg {
+  background-image: url(../images/404.png);
+  height: 150px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+h1.error-number {
+  font-size: 145px;
+  font-weight: 900;
+}
+
+.text-center h2, .text-center p {
+  color: #999999;
+}
+
+.pmaintenance .left-bg {
+  background-image: url(../images/maintenance.png);
+  height: 150px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

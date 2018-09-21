@@ -1,0 +1,45 @@
+.page-masterlist .camera-content{
+    position:absolute;
+    right:0;
+    max-width:240px
+}
+.page-masterlist #cnv{
+    margin-top:15px;
+    max-width:240px !important;
+    border:1px #ccc solid;
+    margin-bottom:-4px
+}
+.page-masterlist #camera{
+    min-width:240px;
+    border:1px #ccc solid;
+    background-color:#ccc;
+    text-align:center
+}
+.page-masterlist .btn-group-sm.col-xs-12{
+    padding:0
+}
+.page-masterlist .dataTables_info{
+    padding:0
+}
+.page-masterlist .dataTables_info h4{
+    margin-bottom:4px
+}
+.refnum {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+.validitydate {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.refnumlayout{
+    margin-top: calc(50% - 106px);
+    position: relative;
+}
+
+.help-block{
+    display: none !important;
+}

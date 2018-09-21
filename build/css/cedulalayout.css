@@ -1,0 +1,246 @@
+.layout{
+    position: relative;
+    width: 545px;
+    height: 441px;
+}
+
+#_fname{
+    position: absolute;
+    top: 88px;
+    left: 117px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+
+#_mname{
+    position: absolute;
+    top: 88px;
+    left: 200px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_lname{
+    position: absolute;
+    top: 88px;
+    left: 9px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_yr{
+    position: absolute;
+    top: 59px;
+    left: 5px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+#_pissue{
+    position: absolute;
+    top: 59px;
+    left: 42px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#_tin{
+    position: absolute;
+    top: 89px;
+    right: 98px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_fulladd{
+    position: absolute;
+    top: 108px;
+    left: 9px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_gender{
+    position: absolute;
+    top: 108px;
+    right: 124px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_civilstatus{
+    position: absolute;
+    top: 156px;
+    left: 22px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_citizenship{
+    position: absolute;
+    top: 133px;
+    left: 9px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_birthdate{
+    position: absolute;
+    top: 156px;
+    right: 107px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_birthplace{
+    position: absolute;
+    top: 133px;
+    right: 157px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_occupation{
+    position: absolute;
+    top: 186px;
+    left: 75px;
+    font-weight: 700;
+    font-size: 36px;
+    transform: rotate(-20deg);
+}
+
+
+#_occupation2{
+    position: absolute;
+    top: 178px;
+    left: 9px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_salary{
+    position: absolute;
+    top: 243px;
+    right: 97px;
+    font-weight: 700;
+    font-size: 13px
+}
+
+
+#basic{
+    position: absolute;
+    top: 202px;
+    right: 20px;
+    font-weight: 700;
+    font-size: 13px
+}
+
+
+#brgross{
+    position: absolute;
+    top: 243px;
+    right: 10px;
+    font-weight: 700;
+    font-size: 13px
+}
+
+#subtotal{
+    position: absolute;
+    /* top: 217px; */
+    top: 322px;
+    right: 10px;
+    font-weight: 700;
+    font-size: 13px
+}
+
+
+#interest{
+    position: absolute;
+    top: 350px;
+    right: 10px;
+    font-weight: 700;
+    font-size: 13px
+}
+
+#total{
+    position: absolute;
+    top: 377px;
+    right: 8px;
+    font-weight: 700;
+    font-size: 13px
+}
+
+#_inwords{
+    position: absolute;
+    top: 405px;
+    left: 383px;
+    font-weight: 700;
+    font-size: 10px;
+    width: 190px;
+}
+
+#_weight{
+    position: absolute;
+    top: 156px;
+    right: 15px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_height{
+    position: absolute;
+    top: 133px;
+    right: 15px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_icrno{
+    position: absolute;
+    top: 133px;
+    left: 121px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#_signatory{
+    position: absolute;
+    top: 391px;
+    left: 163px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+#_signature{
+    position: absolute;
+    top: 373px;
+    left: 181px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+
+#_month{
+    position: absolute;
+    top: 59px;
+    left: 250px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#_day{
+    position: absolute;
+    top: 59px;
+    left: 290px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#_year{
+    position: absolute;
+    top: 59px;
+    left: 330px;
+    font-weight: 700;
+    font-size: 14px;
+}

@@ -1,0 +1,44 @@
+.form.login_form {
+  background-color: #fff;
+  border-radius: 30px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border: 0px solid #000000;
+  padding: 30px;
+  position: relative;
+}
+.login_content_section input {
+  border: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-bottom: 1px solid #e4e4e4;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.login {   
+  /* background: #70e1f5;
+background: -webkit-linear-gradient(to left, #70e1f5 , #ffd194);
+background: linear-gradient(to left, #70e1f5 , #ffd194); */
+/*background: #de6161;   fallback for old browsers 
+background: -webkit-linear-gradient(to right, #2657eb, #de6161);   Chrome 10-25, Safari 5.1-6 
+background: linear-gradient(to right, #2657eb, #de6161);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*background: rgb(202,26,255);
+background: linear-gradient(90deg, rgba(202,26,255,1) 0%, rgba(9,121,95,1) 50%, rgba(0,104,255,1) 100%);*/
+/*background: rgb(202,26,255);
+background: linear-gradient(90deg, rgba(202,26,255,1) 0%, rgba(9,121,95,0.6702031154258579) 50%, rgba(0,104,255,1) 100%);*/
+
+/* background: rgb(63,187,237);
+background: radial-gradient(circle, rgba(63,187,237,1) 0%, rgba(27,34,158,1) 88%); */
+background: rgb(7,35,125);
+background: -moz-linear-gradient(90deg, rgba(7,35,125,0.8970938717283788) 0%, rgba(75,245,255,1) 50%, rgba(7,35,125,0.9) 100%);
+background: -webkit-linear-gradient(90deg, rgba(7,35,125,0.8970938717283788) 0%, rgba(75,245,255,1) 50%, rgba(7,35,125,0.9) 100%);
+background: linear-gradient(90deg, rgba(7,35,125,0.8970938717283788) 0%, rgba(75,245,255,1) 50%, rgba(7,35,125,0.9) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#07237d",endColorstr="#07237d",GradientType=1);
+
+}
+
+.login_wrapper {
+  max-width: 390px;
+  padding: 0 20px;
+}
